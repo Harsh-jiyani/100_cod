@@ -1,9 +1,9 @@
 #include<stdio.h>
 
-//main program
+
 int main ()
 {
-  //variables initialization
+  
   int num, reverse = 0, rem;
   printf("enter the number");
   scanf("%d",&num);
